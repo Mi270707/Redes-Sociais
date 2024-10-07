@@ -46,12 +46,12 @@ nav a:hover {
     transition: transform 0.1s;
 }
 
-.graficos {
-    margin-top: 3rem;
-}
-
 .graficos-container {
     margin: 5rem;
+}
+
+.graficos {
+    margin-top: 3rem;
 }
 
 .graficos-container__texto {
@@ -65,7 +65,6 @@ span {
     font-weight: bold;
     color: var(--secundary-color);
 }
-
 
 footer {
     display: flex;
